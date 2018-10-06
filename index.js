@@ -1,5 +1,5 @@
 function add(a,b) {
-  reurn a ++ b
+  reurn a + b
 }
 
 function makeInt(n) {
